@@ -1,0 +1,3 @@
+C:/lab/9lab/CMakeFiles/sfml_sample.dir
+C:/lab/9lab/CMakeFiles/ALL_BUILD.dir
+C:/lab/9lab/CMakeFiles/ZERO_CHECK.dir
